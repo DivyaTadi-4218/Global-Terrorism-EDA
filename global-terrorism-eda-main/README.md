@@ -311,10 +311,10 @@ See `requirements.txt` for version-pinned package list.
 
 ## Author
 
-**Syed Ahmad Alisha**
+**Divya Tadi**
 
-- GitHub: [@Alisha-21-cloud](https://github.com/Alisha-21-cloud)
-- LinkedIn: [in/Syed Ahmad Alisha](https://www.linkedin.com/in/syed-ahmad-alisha/)
+- GitHub: [@Divya Tadi](https://github.com/DivyaTadi-4218)
+- LinkedIn: [in/Divya Tadi](https://www.linkedin.com/in/divya-tadi-b1b453259/)
 
 ---
 
